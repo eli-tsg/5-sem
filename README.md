@@ -8,4 +8,4 @@ Here are defenitions of uni disciplines:
      - classification
      - clustering
      - EDA
-  4. СУБД -- Системы управления базами данных. This course allowed you to get acquainted with data flow processing tools such as hadoop, apache NiFi, Kafka, Flume, Hbase. there was an introduction to a relational database called MariaDB.
+  4. СУБД -- Системы управления большими данными. This course allowed you to get acquainted with data flow processing tools such as hadoop, apache NiFi, Kafka, Flume, Hbase. there was an introduction to a relational database called MariaDB.
